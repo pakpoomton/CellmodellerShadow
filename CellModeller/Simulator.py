@@ -7,6 +7,8 @@ import cPickle
 
 class Simulator:
     """
+I wanna eat apple!!
+
 This class is in charge of running the simulation, creating the various models
 and stepping them forward in time. It is the control interface for the gui
 or script that is running the simulation.
